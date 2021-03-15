@@ -11,3 +11,4 @@ DontStarveTogether --- 饥荒
 Minecraft
 
 - [mcbackup.sh](./minecraft/mcbackup.sh) 备份
+- [mcretreated.sh](./minecraft/mcretreated.sh) 回档功能
