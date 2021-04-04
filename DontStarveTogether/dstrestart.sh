@@ -1,8 +1,8 @@
 #!/bin/bash
-screen_name="master"
+screen_name="dst"
 # cmd="./run_dedicated_servers.sh"
 
-screen -dr master -X quit
+screen -dr dst -X quit
 #向screen发送命令
 screen -dmS $screen_name bash -c "./run_dedicated_servers.sh"
 
